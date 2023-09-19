@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'imageCaptchaFont';
+    src: url('./imageCaptchaFont.ttf');
+    src: url('./imageCaptchaFont.ttf') format('truetype'),
+        url('./imageCaptchaFont.svg') format('svg'),
+        url('./imageCaptchaFont.otf') format('opentype'),
+        url('./imageCaptchaFont.woff') format('woff'),
+        url('./imageCaptchaFont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
